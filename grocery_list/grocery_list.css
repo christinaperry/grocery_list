@@ -1,0 +1,8 @@
+/* CSS declarations go here */
+.list-item {
+	color: #000;
+}
+
+ul {
+	list-style: none;
+}
